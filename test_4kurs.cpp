@@ -823,7 +823,7 @@ l=0;
                             }
                         //    y=0;
                           //}
-                                float delta_c, delta_b, delta_d,phi;
+                               /* float delta_c, delta_b, delta_d,phi;
                                 delta_c = -2.0*solution/3.0 + 1;
                                 delta_d = -1.0/9.0*k_0*p + 1.0/2.0*k_0*Re;
                                 delta_b = k_0*Re/20.0 - delta_d + 2.0*solution/3.0;
@@ -831,6 +831,6 @@ l=0;
                                 cout << phi << ' ' << delta_b <<' '<<delta_c<<' '<<delta_d<<endl;
 
                               //  k_0+=0.005;
-//}
+//}*/
                                  return 0;
   }
